@@ -11,6 +11,6 @@ Relatórios: Geração de relatórios básicos sobre movimentação de estoque.
 
 # Tecnologias Utilizadas
 
-Backend: PHP para lógica de negócios e comunicação com o banco de dados.
+Backend: PHP para lógica de negócios e comunicação com o banco de dados.\h
 Frontend: Angular e Bootstrap para uma interface responsiva e dinâmica.
 Banco de Dados: MySQL para armazenamento de informações de produtos e estoque.
